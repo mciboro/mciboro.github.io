@@ -45,7 +45,6 @@ body {
   body .header:hover::after {
     width: 100%; }
   body .container {
-    display: flex;
     font-size: 36px;
     background-color: rgba(80, 80, 80, 0.41);
     box-shadow: 0 8px 32px 0 rgba(26, 26, 32, 0.5);
