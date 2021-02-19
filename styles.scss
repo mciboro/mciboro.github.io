@@ -60,6 +60,7 @@ body {
     }
 
     .container {
+        display: flex;
         font-size: 36px;
         background-color: $panel_background;
         box-shadow: 0 8px 32px 0 rgba(26, 26, 32, 0.5);
