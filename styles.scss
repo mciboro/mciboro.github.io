@@ -21,7 +21,7 @@ body {
         right: 60vw;
         background-color: transparent;
         border: 3px solid $font_color;
-        animation: slideDown 30s infinite;
+        animation: slideDown 30s linear infinite;
     }
 
     .triangle {
@@ -34,7 +34,7 @@ body {
         border-left: 7vh solid transparent;
         border-right: 7vh solid transparent;
         border-bottom: 12vh solid $font_color;
-        animation: slideUp 20s infinite;
+        animation: slideUp 20s linear infinite;
       }
 
     .header {
